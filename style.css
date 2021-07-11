@@ -12,10 +12,7 @@ body {
    	padding: 0;
 }
  
-h2, h3 {
-   	color: #212121;
-   	text-decoration: underline;
-}
+h2, h3 {color: #212121;}
 
 a {
 	text-decoration: none;
