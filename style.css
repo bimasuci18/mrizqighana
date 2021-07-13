@@ -12,7 +12,9 @@ body {
    	padding: 0;
 }
  
-h2, h3 {color: #212121;}
+h2, h3 {
+   	color: #333;
+}
 
 a {
 	text-decoration: none;
@@ -103,7 +105,7 @@ header {
 	border: 0;
 	border-radius: 5px;
 	margin-right: .5rem;
-	background-color: #2f5d62;
+	background-image: linear-gradient(to right, #134647, #106768, #0e8787);
 }
 
 .btn-2 a {
@@ -154,7 +156,7 @@ header {
 
 /* Skill style */
 .skill {
-	background-color: #ddd;
+	background-image: linear-gradient(to right, #A9A9A9, #D3D3D3, #DCDCDC);
 	padding: 25px;
 }
 
@@ -243,23 +245,23 @@ header {
 }
 
 .btn-1:hover {
-  background-color: #2f5d62;
+  background-image: linear-gradient(to right, #134647, #106768, #0e8787);
   transition: all .3s ease;
 }
 
 .btn-1 a:hover {
 	color: white;
+	margin-bottom: 2px solid white;
 	transition: all .3s ease;
 }
 
 .btn-2:hover, .btn-2:active {
-	background-color: teal;
 	transition: all .3s ease;
 }
 
 /*jumbotron btn*/
 .blog:hover, .blog:active {
-	background-color: #fff;
+	background-image: linear-gradient(#F8F8FF, #FFFAFA, #fff);
 	transition: all .4s ease;
 }
 
@@ -284,21 +286,21 @@ header {
   margin: 0 auto;
   padding: 10px;
   overflow: auto;
-  background-color: #2f5d62;
+  background-color: #ddd;
   font-size: .8rem;
   text-align: center;
-  color: #fff;
+  color: #333;
   font-weight: bold;
-  border-bottom: .5rem solid #5e8b7e;
+  border-bottom: .5rem solid #808080;
 }
 
 .footer a {
-	color: white;
+	color: #333;
 }
 
 .footer a:hover {
-	transition: all .5s ease;
-	border-bottom: 3px solid white;
+	transition: all .7s ease;
+	border-bottom: 3px solid #333;
 }
 
 .copy {
