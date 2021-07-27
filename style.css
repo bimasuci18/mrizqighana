@@ -152,6 +152,7 @@ header {
 
 .contact a {
 	color: #333;
+	border-bottom: 1.5px solid #333;
 }
 
 /* Skill style */
@@ -235,8 +236,9 @@ header {
 	order: 3;
 }
 
-.demo a {
+.demo {
 	color: #333;
+	border-bottom: 2px solid #333;
 }
 
 /* All Hover Effects */
@@ -259,13 +261,17 @@ header {
 	color: #fff;
 }
 
+.contact a:hover {
+	border-bottom: 1.5px dashed #333;
+}
+
 .frontend:hover, .backend:hover, .ui:hover, .card-1:hover, .card-2:hover, .card-3:hover {
 	transform: translateY(-10px);
 	transition: all .7s ease;
 }
 
 .demo:hover, .demo:active {
-	border-bottom: 1px dashed black;
+	border-bottom: 2px dashed black;
 }
 
 
