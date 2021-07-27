@@ -150,10 +150,6 @@ header {
 	margin: 0 auto;
 }
 
-.saya, .contact {
-	margin-left: 20px;
-}
-
 .contact a {
 	color: #333;
 }
@@ -161,7 +157,6 @@ header {
 /* Skill style */
 .skill {
 	background-image: url(img/email-pattern.png);
-	/* background-color: #E8EAE6; */
 	padding: 25px;
 }
 
