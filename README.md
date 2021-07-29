@@ -15,4 +15,5 @@ I have an interest in web development (especially, front-end) and love the open 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizqighana&layout=compact)](https://github.com/mrizqighana/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?mrizqighana=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?mrizqighana=mrizqighana&repo=nurussalaf)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?mrizqighana=mrizqighana&repo=kalkulator)](https://github.com/anuraghazra/github-readme-stats)
